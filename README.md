@@ -1,6 +1,6 @@
 # Lenny-the-Priority-Planner
 
-Lenny is a Messinger bot that can help you prioritize your daily tasks to increase your productivity.
+Lenny is a Messenger bot that can help you prioritize your daily tasks to increase your productivity.
 
 It is built in node.js and hosted on Heroku.
 
